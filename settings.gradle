@@ -1,3 +1,4 @@
 rootProject.name = "springcloudstreamexample"
 
 include 'annotation-rabbit'
+include 'function-rabbit'
